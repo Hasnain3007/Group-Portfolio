@@ -45,8 +45,10 @@ header {
     align-items: center;
 }
 
-.logos img {
-    border-radius: 20px;
+.gol{
+    width: 60px;
+    border-radius: 100%;
+    border: 1px solid rgb(50, 59, 76);
 }
 
 .iconbarhead {
